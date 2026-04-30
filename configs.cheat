@@ -1,4 +1,14 @@
-% nvim, edit, config, init 
+% nvim, config, init 
 
 # Edit nvim init.lua configuration file 
 nvim D:\Projects\prod-env\configs\nvim\init.lua
+
+% wezterm, config, init 
+
+# Edit wezterm.lua configuration file 
+nvim D:\Projects\prod-env\configs\wezterm\.wezterm.lua
+
+% navi, cheats, configs
+
+# Edit navi configs.cheat file 
+D:\Projects\navi-cheats\configs.cheat
