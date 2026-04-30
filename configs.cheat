@@ -1,0 +1,4 @@
+% nvim, edit, config, init 
+
+# Edit nvim init.lua configuration file 
+nvim D:\Projects\prod-env\configs\nvim\init.lua
