@@ -1,4 +1,4 @@
-% navi 
+% navi, repos
 
-# Navi refresh repo 
+# Navi refresh/update repo 
 navi repo add https://github.com/funnymind/navi-cheats.git

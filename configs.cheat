@@ -8,7 +8,7 @@ nvim D:\Projects\prod-env\configs\wezterm\.wezterm.lua
 
 % navi, cheats, configs
 # Edit navi configs.cheat file 
-D:\Projects\navi-cheats\configs.cheat
+nvim D:\Projects\navi-cheats\configs.cheat
 
 % nushell, configs
 # Edit nushell configs file 

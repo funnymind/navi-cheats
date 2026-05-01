@@ -1,0 +1,3 @@
+% codex, install, tools, cli
+# Update codex cli tool 
+volta install @openai/codex
