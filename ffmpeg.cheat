@@ -1,0 +1,6 @@
+% ffmpeg, mp3, audio
+
+# Grab audio from video file
+ffmpeg -i <input_file> -q:a 0 -map a <output_file>
+
+$ output_file: echo output.mp3 
